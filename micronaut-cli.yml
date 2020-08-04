@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: play.ovp.micronaut.template
+---
+testFramework: spock
+sourceLanguage: java
